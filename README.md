@@ -40,6 +40,9 @@ Confusion Matrix:
 
 
 Testing For images:
+
+
+
 ![Instance 1](https://github.com/abr-98/Face_data_based_deeplearning/blob/master/images_fd/Screenshot%20from%202020-07-26%2000-34-27.png)
 ![Instance 2](https://github.com/abr-98/Face_data_based_deeplearning/blob/master/images_fd/Screenshot%20from%202020-07-26%2000-34-37.png)
 ![Instance 3](https://github.com/abr-98/Face_data_based_deeplearning/blob/master/images_fd/Screenshot%20from%202020-07-26%2000-34-48.png)
